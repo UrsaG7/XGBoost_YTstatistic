@@ -1,8 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Rakamin Academy Final Project
-This project is developing a machine learning model to predict the number of views for YouTube videos using a dataset that includes various Youtube statistics about channels and videos.
+Personal Project
+The aim of this project is to develop a machine learning model to give insights on what affect the number of views the most for YouTube videos using a complex dataset that includes various Youtube statistics about channels and videos.
 
 What the model hope to achieve:
 * Accurately identifying which features have the biggest impact on views of a YouTube video will based on its characteristics.
